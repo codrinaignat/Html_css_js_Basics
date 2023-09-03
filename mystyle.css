@@ -1,0 +1,31 @@
+#butonas{
+	border-radius:20px; 
+	height:30px; 
+	width:60px; 
+	background-color:#34ebe5; 
+	font-weight:1000
+}
+#main-container {
+	background-color:#ffccff; 
+	color:black; 
+	padding:50px; 
+	border:5px solid gray; 
+	margin:10px;  
+	width: 320px;
+}
+
+body{
+	display: flex;
+
+	justify-content: center-left;
+}
+
+#history-list{
+	background-color:#e676e6; 
+	color:black; 
+	padding:50px; 
+	border:5px solid gray; 
+	margin:10px;  
+	width: 320px;
+
+}
